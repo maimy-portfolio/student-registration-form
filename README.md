@@ -1,6 +1,6 @@
 # 📝 Student Registration Form
 
-A simple HTML-based student registration form that allows users to select courses and view course information in a structured summary.
+A simple HTML-based student courses registration form that allows users to select courses and view course information in a summary.
 
 ## 📌 Features
 
