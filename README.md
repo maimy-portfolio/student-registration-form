@@ -9,7 +9,6 @@ A simple HTML-based student courses registration form that allows users to selec
 - Allows course selection through checkboxes
 - Displays course details on demand (via info buttons)
 - Generates a registration summary with timetable after form submission
-- Responsive layout for better user experience
 
 ## 🖥️ Screenshots
 
