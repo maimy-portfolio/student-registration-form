@@ -14,13 +14,13 @@ A simple HTML-based student registration form that allows users to select course
 ## 🖥️ Screenshots
 
 ### Main Registration Form
-![Course Registration](./screenshots/form_view.png)
+![Course Registration](./Screenshots/form_view.png)
 
 ### Course Info Section
-![Course Details](./screenshots/course_details.png)
+![Course Details](./Screenshots/course_details.png)
 
 ### Registration Summary
-![Registration Summary](./screenshots/registration_summary.png)
+![Registration Summary](./Screenshots/registration_summary.png)
 
 ## 🛠️ Tech Stack
 
